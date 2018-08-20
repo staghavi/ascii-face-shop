@@ -1,0 +1,14 @@
+{
+  "name": "discount-ascii-warehouse-server",
+  "version": "0.1.0",
+  "description": "For all your ascii needs.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Zadeh",
+  "license": "",
+  "dependencies": {
+    "cool-ascii-faces": "~1.3.3",
+    "ecstatic": "~0.5.4"
+  }
+}

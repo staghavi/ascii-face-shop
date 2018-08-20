@@ -1,0 +1,46 @@
+@keyframes rainbowBg {
+  0% {
+      background-color: #FF0000;
+      color: white;
+  }
+  10% {
+      background-color: #E2571E;
+      color: black;
+  }
+  20% {
+      background-color: #FF7F00;
+      color: black;
+  }
+  30% {
+      background-color: #FFFF00;
+      color: black;
+  }
+  40% {
+      background-color: #00FF00;
+      color: black;
+  }
+  50% {
+      background-color: #96bf33;
+      color: black;
+  }
+  60% {
+      background-color: #0000FF;
+      color: white;
+  }
+  70% {
+      background-color: #4B0082;
+      color: white;
+  }
+  80% {
+      background-color: #8B00FF;
+      color: black;
+  }
+  90% {
+      background-color: #ffffff;
+      color: black;
+  }
+  100% {
+      background-color: #FF0000;
+      color: white;
+  }
+}
